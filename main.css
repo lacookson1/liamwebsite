@@ -1,0 +1,39 @@
+h1, h3 {
+    /* property:value; */
+    color: red;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+p {
+    font-size: 15px;
+    color: darkblue;
+}
+
+* {
+  background-color: gold;
+}
+
+/* class */
+
+.turnBlue {
+    color: skyblue;
+}
+
+.large {
+    font-size: 50px;
+}
+
+.center {
+    text-align: center;
+}
+
+/* IDs */
+
+#introParagraph {
+    font-size: 20px;
+    color: purple;
+    text-align: center;
+}
